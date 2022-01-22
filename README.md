@@ -99,7 +99,7 @@ let message = await prepareWAMessageMedia({ video: fs.readFileSync('./media/shir
 * Example `web: node . -- db 'mongodb+srv://ilman:<password>@cluster0.iiede.mongodb.net/ShiraoriBOT?retryWrites=true&w=majority'`
 
 
-## UNTUK PENGGUNA WINDOWS/VPS/RDP
+## UNTUK PENGGUNA WINDOWS
 
 * Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
 * Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
