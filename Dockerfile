@@ -12,6 +12,8 @@ COPY package.json .
 
 RUN npm install
 
+RUN npm i yt-search
+
 COPY . .
 
 EXPOSE 5000
