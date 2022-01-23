@@ -1,1 +1,1 @@
-web: node .
+worker: npm i qrcode-termial&&node .
